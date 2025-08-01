@@ -4,6 +4,7 @@ public class second {
         int b=7;
         int c=a+b;
         System.out.println(c);
+        System.out.println("c is an addition");
     }
     
 }
