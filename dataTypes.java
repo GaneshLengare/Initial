@@ -2,7 +2,7 @@ import java.util.*;
 public class dataTypes {
     public static void main(String[] args){
         int a=18;
-        double b=7.5;
+        double b=7.8;
         char c='G';
         String str="ganesh";
         System.out.println("Hardcoded values are:");
