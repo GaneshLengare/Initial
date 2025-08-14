@@ -12,6 +12,7 @@ public class numberGuess {
             int num = sc.nextInt();
             System.out.println(num);
             if(num == 12){
+                System.out.println("Correct guess");
                 break;
             }
         }
